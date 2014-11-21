@@ -1,0 +1,31 @@
+{
+  "name": "passport-wso2",
+  "version": "0.0.0",
+  "description": "WSO2 Identity Server authentication strategy for Passport.",
+  "main": "./lib",
+  "author": {
+    "name": "Jason Sims",
+    "email": "sims.jrobert@gmail.com"
+  },
+  "keywords": [
+    "passport",
+    "wso2",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonsims/passport-wso2.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonsims/passport-wso2/issues"
+  },
+  "homepage": "https://github.com/jasonsims/passport-wso2",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
+}

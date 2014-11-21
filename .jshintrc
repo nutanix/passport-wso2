@@ -1,0 +1,23 @@
+//
+// JS Hint. See options here:
+// http://www.jshint.com/docs/options
+//
+{
+  "camelcase": true,     // Force all variable names to use camelCase style
+  "curly": true,         // Require {} for every new block or scope
+  "eqeqeq": true,        // Require triple equals (===) for comparison
+  "eqnull": false,       // Tolerate use of `== null`
+  "evil": false,         // Tolerate use of `eval`
+  "immed": true,         // Require immediate invocations to be wrapped in parens e.g. `(function () { } ());`
+  "latedef": "nofunc",   // Require variables to be defined before being used
+  "laxbreak": false,     // Tolerate unsafe line breaks e.g. `return [\n] x` without semicolons.
+  "laxcomma": true,      // Allow for comma-first coding style
+  "maxerr": 100,         // Maximum error before stopping.
+  "maxlen": 80,          // Maximum line length
+  "newcap": true,        // Require capitalization of all constructor functions e.g. `new F()`
+  "node": true,          // Ignore standard node.js globals
+  "quotmark": "single",  // Enforces the consistency of quotation marks used throughout your code
+  "shadow": false,       // Allows re-define variables later in code e.g. `var x=1; x=2;`.
+  "undef": true,         // Require all non-global variables to be declared (prevents global leaks)
+  "unused": false,       // Prohibits the use of explicitly undeclared variables
+}
