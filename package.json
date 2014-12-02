@@ -1,6 +1,6 @@
 {
   "name": "passport-wso2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "WSO2 Identity Server authentication strategy for Passport.",
   "main": "./lib",
   "author": {
