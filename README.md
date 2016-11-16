@@ -6,7 +6,7 @@ WSO2 Identity Server authentication strategy for Passport and Node.js.
 
 ## Installation
 ```sh
-npm install git+https://github.com/jasonsims/passport-wso2.git#master
+npm install git+https://git@github.com/jasonsims/passport-wso2.git#master
 ```
 
 ## Usage
